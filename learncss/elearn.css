@@ -1,0 +1,245 @@
+	#start{
+		border-radius: 20px;
+		border: none;
+		position: relative;
+		left: 230px;
+		text-decoration: none;
+		padding-left: 15px;
+		padding-right: 15px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		position: relative;
+		top: 12px;
+		left: 665px;
+		background-color: #666CA3;
+		color: white;
+		font-family: 'Red Hat Display', sans-serif;
+		font-size: 11px;
+	}
+	
+	#skills{
+		position: relative;
+		left: 120px;
+		top: 20px;
+	}
+	
+	.btn{
+		border: none;
+		text-decoration: none;
+		padding-right: 15px;
+		padding-left: 15px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		border-radius: 20px;
+		position: relative;
+		left: 42px;
+		bottom: 2px;
+		background-color: #FBA2C0;
+		color: white;
+		font-family: 'Red Hat Display', sans-serif;
+		font-size: 11px;
+	}
+	
+	.header{
+		border: none;
+		width: 920px;
+		position: relative;
+		left: 140px;
+		overflow: hidden;
+		background-color: #F3F4FF;
+		height: 1000px;
+	}
+	
+	.head-i{
+		text-align: left;
+		font-family: 'Red Hat Display', sans-serif;
+		font-size: 32px;
+		position: relative;
+		left: 120px;
+		bottom: 72px;
+	}
+	
+	.head-note{
+		text-align: left;
+		font-family: 'Red Hat Display', sans-serif;
+		font-weight: 100;
+		font-size: 11px;
+		position: relative;
+		left: 120px;
+		bottom: 58px;
+		color: gray;
+	}
+	
+	.hero{
+		position: relative;
+		left: 270px;
+		bottom: 114px;
+		margin-left: 43px;
+	}
+	
+	.grid-container{
+		display: grid;
+		grid-template-columns: auto auto auto;
+		position: relative;
+		left: 10px;
+		bottom: 50px;
+		padding: 115px;
+	}
+	
+	.courses{
+		border: 1px solid;
+		width: 180px;
+		text-align: left;
+		padding-left: 20px;
+		padding-right: 5px;
+		height: 150px;
+		background-color: #F33694;
+		color: hsl(0, 0%, 100%);
+		position: relative;
+		bottom: 60px;
+		border-radius: 7px;
+	}
+	
+	.animation{
+		border: none;
+		width: 180px;
+		height: 150px;
+		padding-left: 20px;
+		padding-right: 5px;
+		position: relative;
+		bottom: 60px;
+		border-radius: 7px;
+		background-color: hsl(0, 0%, 100%);
+	}
+	
+	#anime-text{
+		font-family: 'Lexand Deca', sans-serif;
+		font-size: 9px;
+		position: relative;
+		bottom: 38px;
+		color: grey;
+	}
+	
+	.btn-i{
+		text-decoration: none;
+		position: relative;
+		bottom: 25px;
+		font-family: 'Red Hat Display', sans-serif;
+		font-size: 11px;
+		color: #F74780;
+	}
+	
+	.design{
+		border: none;
+		width: 180px;
+		height: 150px;
+		padding-left: 20px;
+		padding-right: 5px;
+		position: relative;
+		bottom: 60px;
+		border-radius: 7px;
+		background-color: hsl(0, 0%, 100%);
+	}
+	
+	#design-text{
+		font-family: 'Lexand Deca', sans-serif;
+		font-size: 9px;
+		position: relative;
+		bottom: 38px;
+		color: grey;
+	}
+	
+	.photography{
+		border: none;
+		width: 180px;
+		height: 150px;
+		padding-left: 20px;
+		padding-right: 5px;
+		border-radius: 7px;
+		background-color: hsl(0, 0%, 100%);
+	}
+	
+	#photo-text{
+		font-family: 'Lexand Deca', sans-serif;
+		font-size: 9px;
+		position: relative;
+		bottom: 38px;
+		color: grey;
+	}
+	
+	.crypto{
+		border: none;
+		width: 180px;
+		height: 150px;
+		padding-left: 20px;
+		padding-right: 5px;
+		border-radius: 7px;
+		background-color: hsl(0, 0%, 100%);
+	}
+	
+	#crypto-text{
+		font-family: 'Lexand Deca', sans-serif;
+		font-size: 9px;
+		position: relative;
+		bottom: 38px;
+		color: grey;
+	}
+	
+	.business{
+		border: none;
+		width: 180px;
+		height: 150px;
+		padding-left: 20px;
+		padding-right: 5px;
+		border-radius: 7px;
+		background-color: hsl(0, 0%, 100%);
+	}
+	
+	.biz-text{
+		font-family: 'Lexand Deca', sans-serif;
+		font-size: 9px;
+		position: relative;
+		bottom: 38px;
+		color: grey;
+	}
+	
+	.footer{
+		border: 1px solid;
+		width: 920px;
+		position: relative;
+		left: 140px;
+		background-color: #13183F;
+		height: 60px;
+	}
+	
+	#skills-ii{
+		position: relative;
+		left: 120px;
+		top: 20px;
+	}
+	
+	.f-link{
+		text-decoration: none;
+		border: none;
+		position: relative;
+		left: 655px;
+		top: 14px;
+		color: hsl(0, 0%, 100%);
+		padding-right: 15px;
+		padding-left: 15px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		border-radius: 20px;
+		background-color: #D89BE3;
+		font-family: 'Red Hat Display', sans-serif;
+		font-size: 11px;
+	}
+	
+	.design-btn{
+		text-decoration: none;
+		position: relative;
+		bottom: 15px;
+		font-family: 'Red Hat Display', sans-serif;
+		font-size: 11px;
+		color: #F74780;
+	}
